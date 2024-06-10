@@ -52,7 +52,7 @@ To run the code, ensure you have the murder_target DataFrame loaded in your envi
 
 ## Resources
 
-- [Denver Crime Dataset] (https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data)
+- [[Denver Crime Dataset](https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data)
 - [SMOTE](https://towardsdatascience.com/imbalanced-classification-in-python-smote-tomek-links-method-6e48dfe69bbc)
 - [Linear Relationships (MLR)](https://www.investopedia.com/terms/m/mlr.asp#:~:text=Linear%20regression%20can%20only%20be,extends%20to%20several%20explanatory%20variables)
   - Module_21_02Tuesday_BackToTheMoon
