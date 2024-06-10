@@ -26,7 +26,7 @@ The dataset should be a pandas DataFrame named murder_target with the following 
 - precinct_id: Numerical feature representing the precinct.
 - neighborhood_id: Categorical feature representing the neighborhood.
 - victim_count: Numerical feature representing the count of victims.
-murders: Target variable indicating the occurrence of murder (0 or 1).
+- murders: Target variable indicating the occurrence of murder (0 or 1).
 
 #Code Explanation
 #Data Preparation
@@ -52,7 +52,7 @@ To run the code, ensure you have the murder_target DataFrame loaded in your envi
 
 ## Resources
 
-- [[Denver Crime Dataset](https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data)
+- [Denver Crime Dataset](https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data)
 - [SMOTE](https://towardsdatascience.com/imbalanced-classification-in-python-smote-tomek-links-method-6e48dfe69bbc)
 - [Linear Relationships (MLR)](https://www.investopedia.com/terms/m/mlr.asp#:~:text=Linear%20regression%20can%20only%20be,extends%20to%20several%20explanatory%20variables)
   - Module_21_02Tuesday_BackToTheMoon
