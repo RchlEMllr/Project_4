@@ -4,6 +4,8 @@
 
 In this project, our object was to classify instances of murder occurrences using various features such as district ID, precinct ID, neighborhood ID, and victim count. This code utilizes machine learning techniques, including data preprocessing, resampling, and model training, to build a predictive model. The performance of the model is evaluated using classification metrics, including Matthews Correlation Coefficient (MCC) and Cohen's Kappa.
 
+The dataset used was found on Kaggle, and covers Denver crime reports from 2019 through October 2023, as pulled from Denver's open data catalogue. It includes information on what crimes were reported, the date reported, dates the crimes took place, and where the crimes were reported (including specific address, neighborhood, precinct, and district), as well as count of victims affected. In order to run a predictive model, we also created a binary column which included whether the crime was a murder or not. 
+
 ## Requirements
 
 The following libraries are required to run the code:
