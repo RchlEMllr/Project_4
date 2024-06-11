@@ -1,5 +1,5 @@
 # Crime in Denver
-![OIP](https://github.com/RchlEMllr/Project_4/assets/153474345/0e703908-2115-47ad-acfa-d4faedf24229)
+![Denver crimes 2019-2023 color-coded by district](https://raw.githubusercontent.com/RchlEMllr/Project_4/branchel/Resources/2019_2023_crimes_map.jpg)
 
 
 In this project, our object was to classify instances of murder occurrences using various features such as district ID, precinct ID, neighborhood ID, and victim count. This code utilizes machine learning techniques, including data preprocessing, resampling, and model training, to build a predictive model. The performance of the model is evaluated using classification metrics, including Matthews Correlation Coefficient (MCC) and Cohen's Kappa.
